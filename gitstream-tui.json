@@ -1,19 +1,19 @@
 {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/moneycaringcoder/gitstream-tui/releases/download/v0.6.1/gitstream-tui_0.6.1_windows_amd64.zip",
+            "url": "https://github.com/moneycaringcoder/gitstream-tui/releases/download/v0.6.2/gitstream-tui_0.6.2_windows_amd64.zip",
             "bin": [
                 "gitstream.exe"
             ],
-            "hash": "19778f4530ed4b4c59aadf89971d96f764b1d41fddb64b7ce614bdf7974ddf45"
+            "hash": "08129e2a6be48915637f09765881152432917216001fbdf7818c5546a621bc29"
         },
         "arm64": {
-            "url": "https://github.com/moneycaringcoder/gitstream-tui/releases/download/v0.6.1/gitstream-tui_0.6.1_windows_arm64.zip",
+            "url": "https://github.com/moneycaringcoder/gitstream-tui/releases/download/v0.6.2/gitstream-tui_0.6.2_windows_arm64.zip",
             "bin": [
                 "gitstream.exe"
             ],
-            "hash": "46d7fb5e82fd160b24e513b34da28075bb15105d59d07ed0138746254230bf41"
+            "hash": "e90627a0b7a242028f6f6bb07743c626eae70c01d253600be0676d0899b47f75"
         }
     },
     "homepage": "https://github.com/moneycaringcoder/gitstream-tui",
