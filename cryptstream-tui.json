@@ -1,19 +1,19 @@
 {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/moneycaringcoder/cryptstream-tui/releases/download/v0.6.0/cryptstream-tui_0.6.0_windows_amd64.zip",
+            "url": "https://github.com/moneycaringcoder/cryptstream-tui/releases/download/v0.6.1/cryptstream-tui_0.6.1_windows_amd64.zip",
             "bin": [
                 "cryptstream.exe"
             ],
-            "hash": "1923769a0a9efb6105fc61e8b518e3d0499a2494145c16036e840cd2600cc0f9"
+            "hash": "e11ccbd06698ff29540fea7f39ede78ad48d3748db6103946be2ad36bf0d91fe"
         },
         "arm64": {
-            "url": "https://github.com/moneycaringcoder/cryptstream-tui/releases/download/v0.6.0/cryptstream-tui_0.6.0_windows_arm64.zip",
+            "url": "https://github.com/moneycaringcoder/cryptstream-tui/releases/download/v0.6.1/cryptstream-tui_0.6.1_windows_arm64.zip",
             "bin": [
                 "cryptstream.exe"
             ],
-            "hash": "702dba9669c1ca8eba3813f80d55621742e76d3a698c66a954abdd2b056b60c6"
+            "hash": "95e68f6b7aca2a8336385eea8029fe549e89d17f228c50365f0936adbd119886"
         }
     },
     "homepage": "https://github.com/moneycaringcoder/cryptstream-tui",
