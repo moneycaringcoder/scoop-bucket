@@ -1,19 +1,19 @@
 {
-    "version": "0.10.0",
+    "version": "0.11.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/moneycaringcoder/tuikit-go/releases/download/v0.10.0/tuitest_0.10.0_windows_amd64.zip",
+            "url": "https://github.com/moneycaringcoder/tuikit-go/releases/download/v0.11.0/tuitest_0.11.0_windows_amd64.zip",
             "bin": [
                 "tuitest.exe"
             ],
-            "hash": "a2b5a803670e656912f61ab010b5ed9650761eead2f98e0f260efb4136d6f9fc"
+            "hash": "b8e1b824fbbcd209181dce5481a2e7bb382c86f5ed07ff21e5e43a37d25d914e"
         },
         "arm64": {
-            "url": "https://github.com/moneycaringcoder/tuikit-go/releases/download/v0.10.0/tuitest_0.10.0_windows_arm64.zip",
+            "url": "https://github.com/moneycaringcoder/tuikit-go/releases/download/v0.11.0/tuitest_0.11.0_windows_arm64.zip",
             "bin": [
                 "tuitest.exe"
             ],
-            "hash": "732f7cd1ef27e199e3efef8f154111d3955e046fe3c655d881714d017b358881"
+            "hash": "cba9b71709303df8d004b68001a17099cc66bd7d9aac3e1f2d7d3033d4c9a188"
         }
     },
     "homepage": "https://github.com/moneycaringcoder/tuikit-go",
